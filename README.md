@@ -1,6 +1,6 @@
 # HOW TO INSTALL
 
-First of install this repository. [like this](https://i.imgur.com/51MBexm.png)
+First of install this repository, [like this](https://i.imgur.com/51MBexm.png).
 
 Now, under the `forge` folder double click `forge-1.7.10-10.13.4.1558-1.7.10-installer-win` and `install client`, then download the modpack which is called `mods` and place it under `C:\Users\mrnex\AppData\Roaming\.minecraft\` and replace it if you need to.
 
