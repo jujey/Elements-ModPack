@@ -14,19 +14,19 @@ And you're done! Just open your Minecraft Launcher and launch [this](https://i.i
 
 ## Mods
 
-Industrial Craft 2 |
-Battle Towers |
-Optifine |
-Iron Chests |
-Mo’ Creatures |
-BuildCraft / Quarry |
-Tinkers Construct |
-The Barrels |
-Chisel
-Applied Energetics 2
-Chicken Chunks
-Loot Bags
-Open Blocks
-MineFactory Reloaded
-Rei's Minimap
-Not Enough Items
+- Industrial Craft 2
+- Battle Towers
+- Optifine
+- Iron Chests
+- Mo’ Creatures
+- BuildCraft / Quarry
+- Tinkers Construct
+- The Barrels
+- Chisel
+- Applied Energetics 2
+- Chicken Chunks
+- Loot Bags
+- Open Blocks
+- MineFactory Reloaded
+- Rei's Minimap
+- Not Enough Items
