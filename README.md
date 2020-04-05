@@ -16,7 +16,6 @@ And you're done! Just open your Minecraft Launcher and launch this version. ![th
 
 - Industrial Craft 2
 - Battle Towers
-- Optifine
 - Iron Chests
 - Mo’ Creatures
 - BuildCraft / Quarry
